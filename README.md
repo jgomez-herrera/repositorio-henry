@@ -1,2 +1,1 @@
-#prepcoursehenry
-este es un repositorio de henrry del modulo 2
+este es un proyecto de prueba de como crear un repositorio
